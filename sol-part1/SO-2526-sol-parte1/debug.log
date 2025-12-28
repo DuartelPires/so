@@ -1,0 +1,53 @@
+[INFO] Novo cliente: /tmp/1_notification
+DIM = 6 x 6
+TEMPO = 10
+MON file: lvl//1.m
+Line: XXoXXX
+Line: XoooXX
+Line: XoXoXX
+Line: Xooo@X
+Line: XooooX
+Line: XXXXXX
+Ghost passo: 1
+Ghost Pos = 4 x 1
+=== [103778] LEVEL INFO ===
+Dimensions: 6 x 6
+Tempo: 10
+Pacman file: 
+Monster files (1):
+  - lvl//1.m
+
+=== BOARD ===
+WW WWW
+W    W
+W W WW
+W   PW
+W M  W
+WWWWWW
+==================
+DIM = 6 x 6
+TEMPO = 10
+MON file: lvl//1.m
+Line: XXoXXX
+Line: XoooXX
+Line: XoXoXX
+Line: Xooo@X
+Line: XooooX
+Line: XXXXXX
+Ghost passo: 1
+Ghost Pos = 4 x 1
+=== [103778] LEVEL INFO ===
+Dimensions: 6 x 6
+Tempo: 10
+Pacman file: 
+Monster files (1):
+  - lvl//1.m
+
+=== BOARD ===
+WWPWWW
+W    W
+W W WW
+W    W
+WM   W
+WWWWWW
+==================
